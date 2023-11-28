@@ -4,5 +4,5 @@
 
 <h2>IMG</h2>
 
-<img src= "https://imgur.com/KJRYpsx" />
-<img src= "https://imgur.com/vvwF2cs" />
+<img src= "https://i.imgur.com/JkjAcem.png" />
+<img src= "https://i.imgur.com/x90orax.png" />
